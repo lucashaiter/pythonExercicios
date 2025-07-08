@@ -76,3 +76,4 @@ elif len(senha) < 8:
     print("Menos que 8 caracteres!")
 else:
     print("Nova senha confirmada!")
+    
